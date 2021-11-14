@@ -1,0 +1,11 @@
+{
+  "slip": {
+    "subtitle": "subtitle.peeled.slip",
+    "sounds": [
+      {
+        "name": "peeled:slip",
+        "stream": true
+      }
+    ]
+  }
+}
